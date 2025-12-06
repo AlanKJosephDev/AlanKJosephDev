@@ -1,16 +1,41 @@
-## Hi there 👋
+## 👋 Hi, I'm Alan K Joseph
 
-<!--
-**AlanKJosephDev/AlanKJosephDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Java Developer | Full Stack Developer in Training**  
+💡 Passionate about backend development, clean code & learning new technologies
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Java, SQL, HTML, CSS, JavaScript  
+- **Backend:** JDBC, Servlets, JSP  
+- **Databases:** MySQL  
+- **Tools:** Git, GitHub, Eclipse, VS Code  
+
+---
+
+### 📌 Projects
+⭐ **Intrusion Detection System (Desktop App – Python)**  
+Network traffic & system monitoring with anomaly alerts  
+*(Desktop version — migrating to C++ service)*  
+
+⭐ **Restaurant Management System (Java + JDBC)**  
+Menu-driven billing and DB operations through CLI  
+
+*(More projects coming soon!)*
+
+---
+
+### 📈 GitHub Stats
+![Alan’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanKJosephDev&show_icons=true&theme=default)
+
+---
+
+### 🤝 Connect with Me
+🔗 LinkedIn: [Alan K Joseph](https://www.linkedin.com/in/josephalank332002)  
+
+📩 Open to Java Developer & Full Stack roles  
+📍 Kerala, India
+
+---
+
+⭐ _Thanks for visiting my profile!_  
