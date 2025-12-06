@@ -5,12 +5,20 @@
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** Java, SQL, HTML, CSS, JavaScript  
-- **Backend:** JDBC, Servlets, JSP  
-- **Databases:** MySQL  
-- **Tools:** Git, GitHub, Eclipse, VS Code  
+## 🛠 Tech Skills
 
+**Programming Languages:**  
+Java (Core & OOP) | JavaScript
+
+**Backend:**  
+JDBC | MySQL
+
+**Frontend:**  
+HTML | CSS | JavaScript
+
+**Tools:**  
+VS Code | Eclipse | GitHub
+ 
 ---
 
 ### 📌 Projects
