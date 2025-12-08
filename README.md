@@ -22,14 +22,14 @@ VS Code | Eclipse | GitHub
 ---
 
 ### 📌 Projects
-⭐ **Intrusion Detection System (Desktop App – Python)**  
-Network traffic & system monitoring with anomaly alerts  
-*(Desktop version — migrating to C++ service)*  
+⭐ Intrusion Detection System – Desktop App (Python)
+Monitors network traffic and system resources, sends anomaly alerts.
+(Currently desktop version; migrating to C++ service)
 
-⭐ **Restaurant Management System (Java + JDBC)**  
-Menu-driven billing and DB operations through CLI  
+⭐ Student Management System – Java + JDBC
+Menu-driven system with database operations via CLI
 
-*(More projects coming soon!)*
+(More projects coming soon!)
 
 ---
 
